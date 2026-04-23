@@ -1,0 +1,1001 @@
+ID,Age,Sexe,Severite_COVID,Temps_Reaction_ms,Score_Memoire,Score_Fatigue,Age_Qualitative
+1,26,Homme,Leger,261.47,116.97,54.92,Jeune adulte
+2,75,Femme,Leger,279.96,99.0,36.9,Senior
+3,35,Homme,Leger,289.77,101.93,52.32,Jeune adulte
+4,37,Femme,Leger,300.24,85.82,43.24,Adulte
+5,34,Femme,Leger,293.59,72.79,54.75,Jeune adulte
+6,38,Homme,Leger,332.99,101.62,64.67,Adulte
+7,42,Homme,Leger,217.38,108.27,52.9,Adulte
+8,75,Femme,Leger,226.25,110.54,40.99,Senior
+9,78,Femme,Leger,309.68,108.92,56.26,Senior
+10,33,Homme,Leger,269.87,105.52,54.02,Jeune adulte
+11,63,Femme,Leger,344.21,86.14,70.59,Senior
+12,52,Femme,Leger,358.49,111.51,52.54,Adulte
+13,27,Femme,Leger,311.69,84.47,44.15,Jeune adulte
+14,44,Homme,Leger,246.4,116.61,57.71,Adulte
+15,30,Femme,Leger,352.73,98.74,48.72,Jeune adulte
+16,51,Homme,Leger,309.95,99.24,50.8,Adulte
+17,77,Femme,Leger,225.65,112.99,40.72,Senior
+18,26,Homme,Leger,230.07,115.02,48.78,Jeune adulte
+19,53,Femme,Leger,375.85,111.56,50.31,Adulte
+20,62,Homme,Leger,367.56,87.69,48.72,Senior
+21,27,Homme,Leger,174.14,111.44,44.09,Jeune adulte
+22,40,Homme,Leger,232.11,87.78,52.88,Adulte
+23,54,Femme,Leger,357.04,111.82,40.77,Adulte
+24,64,Femme,Leger,299.08,78.62,38.41,Senior
+25,26,Femme,Leger,335.09,98.59,57.1,Jeune adulte
+26,41,Homme,Leger,296.9,87.69,56.18,Adulte
+27,65,Femme,Leger,332.72,113.05,36.92,Senior
+28,36,Homme,Leger,300.29,116.73,31.7,Adulte
+29,59,Femme,Leger,278.12,102.98,39.91,Adulte
+30,67,Homme,Leger,352.94,102.49,48.72,Senior
+31,25,Homme,Leger,310.1,110.56,61.54,Jeune adulte
+32,79,Homme,Leger,332.62,116.82,48.47,Senior
+33,69,Femme,Leger,307.87,100.56,42.31,Senior
+34,39,Femme,Leger,275.68,92.5,51.49,Adulte
+35,50,Femme,Leger,380.42,109.71,48.86,Adulte
+36,61,Homme,Leger,317.75,72.12,36.19,Senior
+37,45,Homme,Leger,282.25,113.64,36.25,Adulte
+38,73,Femme,Leger,363.92,89.35,36.52,Senior
+39,55,Femme,Leger,233.96,96.4,74.8,Adulte
+40,49,Femme,Leger,411.81,113.74,58.6,Adulte
+41,47,Homme,Leger,291.04,93.77,44.06,Adulte
+42,48,Homme,Leger,236.6,109.71,61.08,Adulte
+43,62,Homme,Leger,395.3,117.08,44.32,Senior
+44,52,Homme,Leger,276.84,101.65,60.75,Adulte
+45,45,Homme,Leger,312.16,104.67,50.8,Adulte
+46,78,Femme,Leger,335.88,98.21,43.41,Senior
+47,67,Homme,Leger,359.21,101.73,56.8,Senior
+48,42,Homme,Leger,314.99,83.25,51.38,Adulte
+49,60,Homme,Leger,267.63,95.59,53.98,Adulte
+50,59,Homme,Leger,310.95,80.68,52.16,Adulte
+51,69,Homme,Leger,279.03,86.52,52.05,Senior
+52,79,Femme,Leger,312.45,69.96,58.01,Senior
+53,33,Homme,Leger,381.41,103.96,75.84,Jeune adulte
+54,77,Homme,Leger,337.8,125.37,62.49,Senior
+55,62,Homme,Leger,310.33,93.16,52.2,Senior
+56,54,Femme,Leger,336.92,114.48,46.89,Adulte
+57,68,Femme,Leger,340.5,116.89,47.99,Senior
+58,58,Femme,Leger,246.11,82.01,37.44,Adulte
+59,56,Homme,Leger,302.09,85.24,56.65,Adulte
+60,27,Femme,Leger,428.13,114.86,39.85,Jeune adulte
+61,27,Homme,Leger,360.64,98.61,46.28,Jeune adulte
+62,52,Homme,Leger,274.83,80.64,56.7,Adulte
+63,68,Femme,Leger,269.84,90.45,47.63,Senior
+64,39,Homme,Leger,268.17,106.29,45.08,Adulte
+65,65,Homme,Leger,343.32,88.09,38.03,Senior
+66,47,Homme,Leger,380.38,58.38,62.05,Adulte
+67,64,Femme,Leger,329.11,95.17,41.67,Senior
+68,35,Homme,Leger,307.86,96.39,44.14,Jeune adulte
+69,72,Homme,Leger,277.79,100.14,32.08,Senior
+70,56,Femme,Leger,316.47,118.88,49.8,Adulte
+71,78,Homme,Leger,258.99,100.8,46.67,Senior
+72,60,Homme,Leger,203.21,103.64,51.82,Adulte
+73,57,Femme,Leger,381.84,115.83,38.25,Adulte
+74,48,Homme,Leger,249.71,100.16,57.34,Adulte
+75,63,Homme,Leger,283.76,132.05,31.61,Senior
+76,58,Homme,Leger,332.82,81.04,49.08,Adulte
+77,52,Homme,Leger,371.72,85.99,51.15,Adulte
+78,61,Homme,Leger,312.86,109.21,50.58,Senior
+79,31,Femme,Leger,240.31,118.81,51.58,Jeune adulte
+80,28,Femme,Leger,284.93,96.99,57.89,Jeune adulte
+81,61,Femme,Leger,266.08,84.84,63.25,Senior
+82,25,Femme,Leger,298.09,126.41,48.44,Jeune adulte
+83,25,Homme,Leger,361.6,88.11,40.32,Jeune adulte
+84,71,Homme,Leger,173.13,105.09,55.61,Senior
+85,44,Homme,Leger,279.43,119.71,47.2,Adulte
+86,43,Homme,Leger,275.8,93.38,62.65,Adulte
+87,53,Homme,Leger,237.16,90.67,43.98,Adulte
+88,34,Femme,Leger,329.27,91.69,41.42,Jeune adulte
+89,42,Femme,Leger,229.25,113.52,51.44,Adulte
+90,52,Homme,Leger,235.01,115.9,32.6,Adulte
+91,59,Homme,Leger,342.55,100.51,45.33,Adulte
+92,67,Homme,Leger,375.03,128.25,46.7,Senior
+93,71,Femme,Leger,296.2,100.48,52.2,Senior
+94,55,Homme,Leger,239.13,119.38,40.04,Adulte
+95,51,Homme,Leger,264.72,93.52,41.2,Adulte
+96,35,Homme,Leger,350.4,135.01,61.57,Jeune adulte
+97,73,Femme,Leger,305.82,123.55,49.87,Senior
+98,73,Homme,Leger,294.95,98.08,58.65,Senior
+99,62,Femme,Leger,315.65,121.52,44.58,Senior
+100,29,Femme,Leger,298.12,120.76,49.46,Jeune adulte
+101,32,Femme,Leger,377.29,123.3,52.15,Jeune adulte
+102,58,Femme,Leger,262.54,62.77,67.48,Adulte
+103,72,Femme,Leger,256.8,110.79,47.82,Senior
+104,76,Femme,Leger,230.83,108.13,48.34,Senior
+105,36,Homme,Leger,273.0,107.07,60.98,Adulte
+106,62,Homme,Leger,245.4,103.28,46.2,Senior
+107,25,Homme,Leger,310.9,103.72,52.85,Jeune adulte
+108,55,Femme,Leger,301.05,119.25,60.11,Adulte
+109,28,Homme,Leger,246.05,108.09,44.24,Jeune adulte
+110,73,Femme,Leger,329.46,103.25,53.4,Senior
+111,69,Femme,Leger,375.84,117.09,67.46,Senior
+112,74,Femme,Leger,317.89,106.27,59.21,Senior
+113,29,Homme,Leger,172.83,107.7,52.85,Jeune adulte
+114,54,Femme,Leger,399.36,128.01,47.76,Adulte
+115,48,Femme,Leger,337.35,93.48,43.96,Adulte
+116,27,Homme,Leger,397.82,77.26,40.12,Jeune adulte
+117,35,Homme,Leger,354.54,101.09,65.1,Jeune adulte
+118,69,Femme,Leger,364.53,103.22,63.15,Senior
+119,28,Femme,Leger,310.26,110.82,43.43,Jeune adulte
+120,50,Homme,Leger,286.89,101.61,53.38,Adulte
+121,51,Homme,Leger,318.67,111.33,51.11,Adulte
+122,70,Homme,Leger,264.56,137.57,61.84,Senior
+123,78,Femme,Leger,321.69,112.02,53.83,Senior
+124,67,Homme,Leger,168.66,114.66,49.77,Senior
+125,51,Homme,Leger,302.15,98.06,44.58,Adulte
+126,66,Homme,Leger,367.23,79.22,53.41,Senior
+127,75,Femme,Leger,304.72,65.53,46.52,Senior
+128,74,Homme,Leger,386.37,92.22,52.21,Senior
+129,30,Homme,Leger,286.81,61.29,49.24,Jeune adulte
+130,39,Homme,Leger,350.13,107.7,46.28,Adulte
+131,77,Homme,Leger,256.09,94.26,40.27,Senior
+132,54,Homme,Leger,348.1,80.3,55.14,Adulte
+133,66,Femme,Leger,311.63,101.96,50.43,Senior
+134,61,Femme,Leger,289.01,88.92,67.87,Senior
+135,61,Femme,Leger,171.31,106.76,39.68,Senior
+136,66,Homme,Leger,287.28,110.61,56.25,Senior
+137,61,Femme,Leger,310.67,89.47,49.17,Senior
+138,59,Femme,Leger,341.44,96.44,71.0,Adulte
+139,47,Femme,Leger,378.05,103.22,55.49,Adulte
+140,30,Homme,Leger,401.75,78.89,53.25,Jeune adulte
+141,28,Homme,Leger,362.31,103.22,49.2,Jeune adulte
+142,42,Femme,Leger,271.9,78.53,42.97,Adulte
+143,33,Femme,Leger,284.76,108.49,53.11,Jeune adulte
+144,73,Homme,Leger,336.95,93.47,36.18,Senior
+145,53,Homme,Leger,325.98,78.45,36.64,Adulte
+146,37,Femme,Leger,381.42,91.3,60.12,Adulte
+147,71,Homme,Leger,423.97,91.93,32.38,Senior
+148,76,Femme,Leger,413.36,116.03,46.8,Senior
+149,41,Homme,Leger,374.7,102.6,39.51,Adulte
+150,69,Femme,Leger,326.4,85.66,45.98,Senior
+151,56,Femme,Leger,367.47,124.74,51.85,Adulte
+152,72,Homme,Leger,383.07,109.4,59.85,Senior
+153,46,Femme,Leger,292.63,94.96,62.18,Adulte
+154,28,Femme,Leger,273.37,76.69,40.81,Jeune adulte
+155,29,Femme,Leger,261.63,93.63,45.34,Jeune adulte
+156,61,Homme,Leger,256.18,96.69,90.53,Senior
+157,65,Homme,Leger,230.9,105.54,47.5,Senior
+158,73,Homme,Leger,312.5,109.11,41.18,Senior
+159,37,Femme,Leger,250.01,112.1,42.84,Adulte
+160,58,Homme,Leger,260.82,75.83,47.56,Adulte
+161,69,Femme,Leger,335.06,103.13,46.07,Senior
+162,46,Femme,Leger,309.08,97.61,47.66,Adulte
+163,77,Homme,Leger,321.48,140.17,49.79,Senior
+164,47,Homme,Leger,368.26,100.97,49.72,Adulte
+165,75,Femme,Leger,343.23,90.66,40.45,Senior
+166,27,Femme,Leger,375.94,101.66,53.69,Jeune adulte
+167,66,Homme,Leger,304.0,99.87,51.21,Senior
+168,58,Homme,Leger,380.59,70.16,54.97,Adulte
+169,56,Homme,Leger,317.99,106.12,32.86,Adulte
+170,69,Femme,Leger,308.44,95.34,51.57,Senior
+171,75,Femme,Leger,373.08,99.6,30.14,Senior
+172,73,Femme,Leger,256.39,86.9,48.24,Senior
+173,45,Femme,Leger,401.18,83.59,56.58,Adulte
+174,70,Femme,Leger,285.89,113.18,60.46,Senior
+175,68,Homme,Leger,239.09,116.63,53.34,Senior
+176,45,Homme,Leger,332.68,106.27,56.75,Adulte
+177,68,Femme,Leger,281.13,72.84,47.01,Senior
+178,35,Femme,Leger,401.29,107.25,44.91,Jeune adulte
+179,63,Homme,Leger,278.35,73.06,76.93,Senior
+180,28,Homme,Leger,315.72,90.08,58.27,Jeune adulte
+181,75,Homme,Leger,228.72,112.98,38.27,Senior
+182,25,Homme,Leger,340.65,109.86,32.65,Jeune adulte
+183,52,Femme,Leger,261.13,106.85,45.35,Adulte
+184,48,Homme,Leger,334.67,119.69,61.92,Adulte
+185,59,Femme,Leger,278.58,108.4,50.49,Adulte
+186,37,Homme,Leger,197.65,69.71,27.76,Adulte
+187,71,Homme,Leger,306.56,94.46,48.23,Senior
+188,58,Homme,Leger,304.32,99.38,49.98,Adulte
+189,35,Femme,Leger,344.05,97.62,25.84,Jeune adulte
+190,60,Femme,Leger,377.8,90.74,50.24,Adulte
+191,75,Homme,Leger,395.62,84.55,39.87,Senior
+192,41,Femme,Leger,343.21,136.01,31.64,Adulte
+193,59,Femme,Leger,313.93,94.17,66.05,Adulte
+194,42,Homme,Leger,228.63,135.27,39.42,Adulte
+195,64,Homme,Leger,310.1,82.88,43.33,Senior
+196,46,Femme,Leger,310.75,109.86,43.19,Adulte
+197,48,Femme,Leger,290.07,103.44,50.02,Adulte
+198,43,Femme,Leger,331.65,86.17,67.66,Adulte
+199,61,Homme,Leger,356.1,92.99,38.04,Senior
+200,63,Homme,Leger,259.08,99.77,46.93,Senior
+201,45,Femme,Leger,258.3,87.34,51.21,Adulte
+202,32,Homme,Leger,293.04,96.16,41.31,Jeune adulte
+203,52,Homme,Leger,269.24,64.53,46.77,Adulte
+204,29,Femme,Leger,217.94,110.67,55.94,Jeune adulte
+205,41,Femme,Leger,250.17,118.41,42.44,Adulte
+206,61,Homme,Leger,238.38,106.82,46.61,Senior
+207,60,Homme,Leger,360.42,133.96,45.69,Adulte
+208,78,Femme,Leger,385.14,110.23,48.96,Senior
+209,43,Homme,Leger,245.23,117.14,52.43,Adulte
+210,51,Homme,Leger,327.3,118.58,55.87,Adulte
+211,77,Femme,Leger,343.68,58.73,69.38,Senior
+212,58,Femme,Leger,225.39,106.36,23.42,Adulte
+213,35,Homme,Leger,308.05,79.26,48.33,Jeune adulte
+214,78,Homme,Leger,426.68,82.29,36.36,Senior
+215,69,Homme,Leger,333.86,84.9,46.15,Senior
+216,71,Femme,Leger,287.73,95.31,58.81,Senior
+217,36,Homme,Leger,271.99,109.76,61.98,Adulte
+218,78,Homme,Leger,198.88,106.51,62.45,Senior
+219,45,Femme,Leger,323.52,99.81,62.35,Adulte
+220,78,Femme,Leger,397.39,110.84,48.26,Senior
+221,35,Homme,Leger,259.32,111.75,63.99,Jeune adulte
+222,63,Femme,Leger,203.22,106.64,65.97,Senior
+223,52,Femme,Leger,266.79,74.13,51.39,Adulte
+224,29,Homme,Leger,344.08,88.91,61.77,Jeune adulte
+225,41,Femme,Leger,278.57,100.39,50.41,Adulte
+226,44,Femme,Leger,258.98,111.0,64.1,Adulte
+227,65,Homme,Leger,300.96,80.07,48.38,Senior
+228,70,Femme,Leger,311.49,99.83,43.9,Senior
+229,36,Homme,Leger,230.58,76.52,38.8,Adulte
+230,30,Homme,Leger,289.14,115.39,48.26,Jeune adulte
+231,41,Femme,Leger,275.14,103.64,50.84,Adulte
+232,75,Femme,Leger,267.95,79.81,40.54,Senior
+233,43,Femme,Leger,249.15,79.71,47.5,Adulte
+234,50,Homme,Leger,347.06,105.81,44.73,Adulte
+235,72,Femme,Leger,267.78,120.62,39.23,Senior
+236,68,Homme,Leger,200.25,83.55,60.36,Senior
+237,68,Femme,Leger,313.21,111.8,62.12,Senior
+238,76,Femme,Leger,336.26,91.87,60.31,Senior
+239,56,Femme,Leger,260.2,112.35,49.16,Adulte
+240,30,Homme,Leger,272.02,110.25,49.78,Jeune adulte
+241,79,Femme,Leger,267.55,102.33,39.37,Senior
+242,60,Femme,Leger,282.67,72.48,54.15,Adulte
+243,62,Homme,Leger,355.34,110.22,51.7,Senior
+244,35,Homme,Leger,294.3,107.53,78.44,Jeune adulte
+245,57,Femme,Leger,341.98,106.16,60.87,Adulte
+246,48,Femme,Leger,251.56,102.94,53.15,Adulte
+247,47,Femme,Leger,280.82,86.82,49.58,Adulte
+248,39,Homme,Leger,347.7,116.24,60.01,Adulte
+249,51,Homme,Leger,259.72,113.47,40.84,Adulte
+250,35,Homme,Leger,350.61,83.87,61.4,Jeune adulte
+251,75,Homme,Leger,268.58,119.71,39.13,Senior
+252,74,Femme,Leger,283.92,101.98,44.38,Senior
+253,41,Homme,Leger,383.51,101.94,31.62,Adulte
+254,75,Homme,Leger,278.21,97.35,56.14,Senior
+255,77,Homme,Leger,307.27,98.83,52.5,Senior
+256,38,Femme,Leger,330.82,120.56,44.39,Adulte
+257,51,Femme,Leger,311.33,115.5,40.71,Adulte
+258,42,Homme,Leger,312.75,115.18,63.79,Adulte
+259,52,Homme,Leger,297.17,102.77,48.66,Adulte
+260,75,Femme,Leger,234.89,113.34,42.33,Senior
+261,71,Femme,Leger,317.41,87.49,69.22,Senior
+262,71,Femme,Leger,263.38,108.75,43.43,Senior
+263,28,Femme,Leger,338.79,97.7,61.39,Jeune adulte
+264,31,Femme,Leger,368.6,69.1,38.49,Jeune adulte
+265,69,Femme,Leger,209.72,76.21,46.45,Senior
+266,59,Femme,Leger,368.69,90.06,55.02,Adulte
+267,72,Femme,Leger,279.45,106.23,49.42,Senior
+268,33,Homme,Leger,293.45,90.07,52.44,Jeune adulte
+269,32,Homme,Leger,254.38,91.13,44.61,Jeune adulte
+270,76,Homme,Leger,309.42,111.45,34.02,Senior
+271,69,Homme,Leger,303.34,91.67,64.66,Senior
+272,41,Homme,Leger,353.85,119.96,45.22,Adulte
+273,41,Homme,Leger,262.93,117.48,52.89,Adulte
+274,73,Femme,Leger,383.04,100.33,57.02,Senior
+275,57,Femme,Leger,333.24,111.3,53.09,Adulte
+276,56,Homme,Leger,304.55,109.26,42.91,Adulte
+277,32,Homme,Leger,290.96,96.32,61.6,Jeune adulte
+278,43,Femme,Leger,284.67,112.92,55.14,Adulte
+279,62,Femme,Leger,287.93,115.13,51.99,Senior
+280,27,Femme,Leger,308.42,85.71,51.76,Jeune adulte
+281,29,Homme,Leger,289.55,102.3,66.82,Jeune adulte
+282,37,Femme,Leger,267.97,102.14,42.7,Adulte
+283,71,Homme,Leger,308.72,112.74,54.15,Senior
+284,70,Homme,Leger,258.19,93.34,44.71,Senior
+285,55,Femme,Leger,316.12,91.03,30.64,Adulte
+286,79,Femme,Leger,288.85,102.53,30.37,Senior
+287,40,Homme,Leger,334.84,117.72,39.85,Adulte
+288,74,Femme,Leger,349.45,82.01,43.42,Senior
+289,56,Femme,Leger,349.43,84.63,71.73,Adulte
+290,46,Homme,Leger,315.91,92.19,56.98,Adulte
+291,53,Femme,Leger,321.74,94.86,57.88,Adulte
+292,46,Homme,Leger,283.86,73.52,43.63,Adulte
+293,67,Homme,Leger,333.88,122.47,50.61,Senior
+294,27,Femme,Leger,339.53,98.05,73.06,Jeune adulte
+295,78,Homme,Leger,221.63,95.8,37.86,Senior
+296,34,Homme,Leger,318.92,124.34,54.56,Jeune adulte
+297,66,Femme,Leger,368.41,110.77,66.11,Senior
+298,45,Femme,Leger,282.19,91.97,59.66,Adulte
+299,40,Femme,Leger,271.27,102.47,68.02,Adulte
+300,36,Homme,Leger,279.01,99.37,52.13,Adulte
+301,26,Homme,Leger,224.76,121.73,56.03,Jeune adulte
+302,65,Femme,Leger,306.3,97.49,51.1,Senior
+303,48,Homme,Leger,301.5,78.37,55.33,Adulte
+304,59,Femme,Leger,309.85,71.84,40.85,Adulte
+305,54,Femme,Leger,320.8,122.13,57.92,Adulte
+306,54,Homme,Leger,260.1,88.17,52.94,Adulte
+307,71,Femme,Leger,313.66,110.05,50.63,Senior
+308,59,Homme,Leger,322.16,101.08,67.46,Adulte
+309,43,Homme,Leger,275.58,93.75,47.35,Adulte
+310,74,Femme,Leger,321.01,96.1,62.08,Senior
+311,32,Homme,Leger,304.04,123.75,63.07,Jeune adulte
+312,50,Femme,Leger,268.44,78.28,58.56,Adulte
+313,73,Homme,Leger,314.14,94.2,40.35,Senior
+314,64,Homme,Leger,285.46,113.6,53.59,Senior
+315,31,Homme,Leger,334.85,80.75,69.58,Jeune adulte
+316,54,Femme,Leger,288.04,119.76,31.81,Adulte
+317,31,Homme,Leger,235.51,113.38,48.12,Jeune adulte
+318,27,Femme,Leger,313.35,104.08,61.62,Jeune adulte
+319,25,Homme,Leger,311.47,92.45,48.85,Jeune adulte
+320,60,Homme,Leger,245.94,78.83,58.1,Adulte
+321,49,Femme,Leger,337.53,110.61,64.09,Adulte
+322,61,Femme,Leger,334.91,141.23,52.32,Senior
+323,25,Femme,Leger,256.5,102.19,55.09,Jeune adulte
+324,39,Femme,Leger,267.02,72.61,50.92,Adulte
+325,61,Femme,Leger,292.9,106.86,52.98,Senior
+326,37,Homme,Leger,262.06,112.9,71.03,Adulte
+327,64,Homme,Leger,332.02,86.23,49.36,Senior
+328,32,Femme,Leger,307.45,90.32,46.47,Jeune adulte
+329,29,Homme,Leger,245.32,88.79,60.42,Jeune adulte
+330,33,Homme,Leger,258.88,92.03,41.57,Jeune adulte
+331,25,Homme,Leger,359.39,97.42,43.85,Jeune adulte
+332,60,Femme,Leger,376.78,87.09,43.92,Adulte
+333,59,Homme,Leger,326.94,81.46,47.44,Adulte
+334,26,Homme,Modere,289.44,102.62,47.88,Jeune adulte
+335,64,Homme,Modere,278.0,97.26,56.99,Senior
+336,47,Femme,Modere,327.48,93.46,46.58,Adulte
+337,33,Homme,Modere,303.8,101.25,57.39,Jeune adulte
+338,58,Homme,Modere,219.5,77.2,58.64,Adulte
+339,70,Femme,Modere,351.59,103.95,43.46,Senior
+340,38,Femme,Modere,367.29,93.76,58.43,Adulte
+341,28,Homme,Modere,336.86,103.59,59.33,Jeune adulte
+342,54,Homme,Modere,245.42,105.99,32.39,Adulte
+343,55,Femme,Modere,268.16,116.97,52.93,Adulte
+344,62,Femme,Modere,207.11,101.54,44.94,Senior
+345,35,Femme,Modere,379.8,116.0,63.03,Jeune adulte
+346,59,Femme,Modere,282.16,95.17,44.83,Adulte
+347,32,Femme,Modere,416.66,95.89,36.61,Jeune adulte
+348,27,Femme,Modere,397.76,98.64,49.7,Jeune adulte
+349,38,Femme,Modere,254.83,111.61,41.03,Adulte
+350,37,Homme,Modere,264.59,109.46,58.5,Adulte
+351,69,Femme,Modere,323.31,102.03,41.91,Senior
+352,56,Femme,Modere,212.27,81.58,49.82,Adulte
+353,58,Homme,Modere,278.09,109.2,65.46,Adulte
+354,69,Femme,Modere,273.09,87.08,60.99,Senior
+355,43,Femme,Modere,392.56,86.26,54.78,Adulte
+356,62,Homme,Modere,308.05,82.92,48.72,Senior
+357,40,Femme,Modere,285.76,98.75,53.83,Adulte
+358,26,Homme,Modere,268.43,118.18,56.89,Jeune adulte
+359,64,Homme,Modere,344.7,85.52,40.13,Senior
+360,41,Homme,Modere,275.16,125.18,58.51,Adulte
+361,79,Homme,Modere,297.49,113.65,38.98,Senior
+362,58,Femme,Modere,268.04,78.03,55.72,Adulte
+363,66,Homme,Modere,224.12,94.26,38.93,Senior
+364,40,Homme,Modere,250.2,84.4,69.63,Adulte
+365,62,Femme,Modere,274.9,109.97,57.63,Senior
+366,26,Homme,Modere,286.84,85.18,34.44,Jeune adulte
+367,26,Homme,Modere,289.03,75.68,49.99,Jeune adulte
+368,50,Homme,Modere,295.55,95.11,44.79,Adulte
+369,37,Homme,Modere,275.57,117.54,43.6,Adulte
+370,71,Femme,Modere,367.46,97.11,51.47,Senior
+371,55,Homme,Modere,347.4,105.98,40.72,Adulte
+372,58,Femme,Modere,293.24,106.56,57.61,Adulte
+373,63,Femme,Modere,312.71,77.32,57.05,Senior
+374,27,Homme,Modere,281.4,86.51,53.51,Jeune adulte
+375,32,Homme,Modere,157.83,100.1,49.8,Jeune adulte
+376,47,Homme,Modere,301.02,91.64,56.6,Adulte
+377,38,Homme,Modere,315.28,125.57,57.91,Adulte
+378,79,Femme,Modere,219.37,81.58,54.55,Senior
+379,51,Femme,Modere,324.97,86.36,36.88,Adulte
+380,78,Femme,Modere,285.97,104.36,42.12,Senior
+381,53,Homme,Modere,316.9,90.58,47.32,Adulte
+382,63,Femme,Modere,287.48,56.62,35.24,Senior
+383,77,Homme,Modere,362.55,129.02,52.24,Senior
+384,63,Homme,Modere,311.31,83.89,64.11,Senior
+385,25,Homme,Modere,350.12,108.41,62.52,Jeune adulte
+386,41,Homme,Modere,354.24,81.2,57.4,Adulte
+387,65,Homme,Modere,244.02,87.05,57.28,Senior
+388,54,Femme,Modere,263.05,75.66,72.15,Adulte
+389,77,Femme,Modere,322.58,88.88,58.44,Senior
+390,37,Homme,Modere,281.72,90.34,59.26,Adulte
+391,45,Femme,Modere,288.07,98.01,35.61,Adulte
+392,43,Homme,Modere,364.33,94.41,63.33,Adulte
+393,77,Homme,Modere,284.48,78.38,53.98,Senior
+394,43,Homme,Modere,251.55,92.14,49.2,Adulte
+395,49,Femme,Modere,258.31,121.71,46.72,Adulte
+396,46,Homme,Modere,409.12,119.93,44.51,Adulte
+397,55,Homme,Modere,291.09,106.84,62.57,Adulte
+398,41,Femme,Modere,231.79,109.95,49.72,Adulte
+399,79,Femme,Modere,211.53,130.91,44.88,Senior
+400,47,Femme,Modere,268.77,108.57,42.28,Adulte
+401,56,Homme,Modere,290.17,109.66,51.71,Adulte
+402,34,Homme,Modere,347.46,76.53,46.4,Jeune adulte
+403,34,Femme,Modere,342.62,83.31,44.12,Jeune adulte
+404,60,Homme,Modere,299.68,99.51,36.18,Adulte
+405,32,Femme,Modere,277.29,87.89,59.59,Jeune adulte
+406,78,Femme,Modere,316.98,85.03,48.62,Senior
+407,76,Homme,Modere,212.56,86.76,39.15,Senior
+408,44,Homme,Modere,399.05,78.65,47.29,Adulte
+409,56,Femme,Modere,332.71,88.13,55.49,Adulte
+410,74,Femme,Modere,343.35,105.09,50.29,Senior
+411,38,Femme,Modere,246.29,126.94,51.91,Adulte
+412,74,Femme,Modere,364.13,111.95,50.43,Senior
+413,52,Homme,Modere,277.0,109.54,37.23,Adulte
+414,70,Femme,Modere,252.37,75.65,59.49,Senior
+415,76,Femme,Modere,298.04,101.79,32.92,Senior
+416,77,Femme,Modere,296.87,99.0,54.62,Senior
+417,48,Homme,Modere,246.07,104.36,56.16,Adulte
+418,39,Homme,Modere,255.25,94.59,47.8,Adulte
+419,46,Femme,Modere,251.34,124.93,53.53,Adulte
+420,54,Homme,Modere,251.81,100.79,47.23,Adulte
+421,28,Homme,Modere,280.6,102.25,53.65,Jeune adulte
+422,37,Homme,Modere,230.55,70.56,59.93,Adulte
+423,47,Femme,Modere,265.43,98.4,42.08,Adulte
+424,32,Femme,Modere,352.26,117.24,56.74,Jeune adulte
+425,42,Homme,Modere,341.17,108.33,66.92,Adulte
+426,36,Femme,Modere,247.51,67.67,52.65,Adulte
+427,79,Femme,Modere,347.91,93.25,44.97,Senior
+428,55,Homme,Modere,201.68,125.98,72.63,Adulte
+429,38,Homme,Modere,421.46,97.74,50.89,Adulte
+430,58,Femme,Modere,365.02,104.84,52.32,Adulte
+431,42,Homme,Modere,272.01,124.29,52.52,Adulte
+432,58,Femme,Modere,319.12,97.68,54.48,Adulte
+433,35,Femme,Modere,229.95,111.87,46.61,Jeune adulte
+434,65,Homme,Modere,303.02,106.17,51.9,Senior
+435,36,Femme,Modere,290.82,109.38,59.52,Adulte
+436,73,Femme,Modere,258.26,105.69,46.27,Senior
+437,39,Homme,Modere,276.57,91.79,45.8,Adulte
+438,55,Homme,Modere,271.65,93.28,47.08,Adulte
+439,73,Homme,Modere,243.41,87.18,39.02,Senior
+440,53,Femme,Modere,257.09,75.4,43.17,Adulte
+441,50,Homme,Modere,227.91,118.67,42.76,Adulte
+442,42,Homme,Modere,342.87,100.15,49.99,Adulte
+443,56,Homme,Modere,253.39,117.91,58.36,Adulte
+444,46,Homme,Modere,238.9,123.48,64.54,Adulte
+445,62,Femme,Modere,342.08,100.8,50.57,Senior
+446,41,Femme,Modere,318.48,80.3,54.56,Adulte
+447,47,Homme,Modere,340.23,97.06,52.43,Adulte
+448,48,Femme,Modere,345.8,89.93,29.07,Adulte
+449,74,Homme,Modere,396.87,70.3,38.52,Senior
+450,32,Homme,Modere,292.2,92.47,57.61,Jeune adulte
+451,65,Femme,Modere,227.12,98.93,58.58,Senior
+452,30,Femme,Modere,313.55,90.35,58.36,Jeune adulte
+453,29,Homme,Modere,266.55,88.43,48.22,Jeune adulte
+454,68,Homme,Modere,252.12,80.84,30.05,Senior
+455,53,Femme,Modere,305.0,102.94,39.71,Adulte
+456,52,Homme,Modere,343.29,128.04,41.24,Adulte
+457,35,Femme,Modere,258.2,119.18,56.29,Jeune adulte
+458,25,Homme,Modere,363.72,109.8,46.43,Jeune adulte
+459,67,Homme,Modere,250.52,110.13,66.9,Senior
+460,43,Femme,Modere,287.8,98.01,64.68,Adulte
+461,33,Femme,Modere,319.32,72.93,66.74,Jeune adulte
+462,51,Femme,Modere,280.61,94.46,40.83,Adulte
+463,58,Femme,Modere,211.2,85.46,54.91,Adulte
+464,68,Femme,Modere,346.37,102.32,45.22,Senior
+465,28,Femme,Modere,268.83,118.5,53.28,Jeune adulte
+466,60,Femme,Modere,337.24,129.6,41.94,Adulte
+467,42,Homme,Modere,236.79,100.97,62.26,Adulte
+468,39,Homme,Modere,245.33,74.99,42.13,Adulte
+469,75,Homme,Modere,343.12,100.94,30.53,Senior
+470,37,Femme,Modere,317.03,101.35,70.34,Adulte
+471,43,Femme,Modere,278.07,110.18,54.42,Adulte
+472,73,Femme,Modere,317.75,99.71,39.31,Senior
+473,30,Homme,Modere,252.3,101.0,48.38,Jeune adulte
+474,72,Femme,Modere,305.51,90.52,44.23,Senior
+475,36,Femme,Modere,306.43,95.32,50.06,Adulte
+476,75,Homme,Modere,281.31,107.7,58.03,Senior
+477,61,Femme,Modere,258.24,69.87,56.46,Senior
+478,41,Homme,Modere,303.51,95.24,52.54,Adulte
+479,47,Homme,Modere,297.25,110.32,50.05,Adulte
+480,50,Femme,Modere,276.71,124.61,60.79,Adulte
+481,53,Femme,Modere,248.31,94.02,30.75,Adulte
+482,57,Femme,Modere,300.62,117.78,42.51,Adulte
+483,51,Homme,Modere,276.83,125.35,40.21,Adulte
+484,49,Homme,Modere,248.27,94.22,60.06,Adulte
+485,79,Homme,Modere,302.18,91.63,42.61,Senior
+486,34,Femme,Modere,380.42,97.27,37.14,Jeune adulte
+487,71,Femme,Modere,281.66,98.77,55.49,Senior
+488,47,Femme,Modere,374.89,116.36,40.91,Adulte
+489,45,Femme,Modere,405.72,88.39,46.49,Adulte
+490,45,Homme,Modere,252.33,123.07,73.81,Adulte
+491,67,Homme,Modere,300.45,87.99,57.87,Senior
+492,37,Homme,Modere,405.19,81.03,47.89,Adulte
+493,61,Homme,Modere,293.95,107.86,48.79,Senior
+494,57,Femme,Modere,301.84,118.46,59.07,Adulte
+495,48,Femme,Modere,216.5,102.68,56.63,Adulte
+496,68,Femme,Modere,273.42,106.53,50.76,Senior
+497,35,Homme,Modere,327.78,129.31,51.04,Jeune adulte
+498,41,Homme,Modere,421.46,118.67,35.2,Adulte
+499,28,Femme,Modere,290.2,100.46,33.1,Jeune adulte
+500,71,Femme,Modere,216.87,93.53,48.23,Senior
+501,49,Homme,Modere,229.74,116.43,43.67,Adulte
+502,54,Femme,Modere,298.21,112.44,55.86,Adulte
+503,33,Homme,Modere,358.86,106.28,51.97,Jeune adulte
+504,45,Homme,Modere,331.87,95.09,42.27,Adulte
+505,44,Homme,Modere,323.01,98.85,51.63,Adulte
+506,43,Femme,Modere,365.46,97.79,45.82,Adulte
+507,43,Femme,Modere,263.99,95.34,70.67,Adulte
+508,36,Homme,Modere,300.95,90.98,53.86,Adulte
+509,61,Femme,Modere,273.98,103.98,34.39,Senior
+510,66,Homme,Modere,286.43,90.31,68.21,Senior
+511,41,Homme,Modere,249.69,102.66,43.67,Adulte
+512,61,Homme,Modere,282.8,68.5,40.25,Senior
+513,78,Homme,Modere,298.61,91.0,71.44,Senior
+514,72,Femme,Modere,281.43,116.47,53.46,Senior
+515,63,Homme,Modere,291.95,86.49,57.01,Senior
+516,52,Homme,Modere,320.25,108.88,57.33,Adulte
+517,65,Femme,Modere,361.93,87.74,47.94,Senior
+518,59,Homme,Modere,365.56,111.64,44.28,Adulte
+519,71,Homme,Modere,338.07,95.54,45.91,Senior
+520,72,Femme,Modere,237.0,94.95,66.09,Senior
+521,42,Femme,Modere,281.98,100.82,52.04,Adulte
+522,38,Femme,Modere,286.29,79.85,63.13,Adulte
+523,59,Homme,Modere,267.14,114.58,49.24,Adulte
+524,68,Femme,Modere,317.12,119.55,42.45,Senior
+525,65,Femme,Modere,220.28,94.6,35.58,Senior
+526,31,Homme,Modere,384.68,107.86,56.48,Jeune adulte
+527,65,Homme,Modere,359.76,111.68,66.94,Senior
+528,37,Homme,Modere,323.91,98.63,41.14,Adulte
+529,42,Homme,Modere,296.89,83.38,55.13,Adulte
+530,61,Homme,Modere,361.44,123.91,36.24,Senior
+531,37,Femme,Modere,334.47,94.11,44.44,Adulte
+532,60,Femme,Modere,355.33,90.86,52.68,Adulte
+533,55,Femme,Modere,297.05,124.58,32.72,Adulte
+534,26,Homme,Modere,389.47,109.15,49.82,Jeune adulte
+535,40,Homme,Modere,358.34,103.86,41.63,Adulte
+536,33,Homme,Modere,325.48,85.44,56.05,Jeune adulte
+537,33,Femme,Modere,362.8,112.04,48.35,Jeune adulte
+538,62,Femme,Modere,279.04,143.45,59.39,Senior
+539,35,Homme,Modere,241.62,113.21,47.2,Jeune adulte
+540,78,Femme,Modere,316.08,107.44,36.38,Senior
+541,46,Homme,Modere,297.15,110.82,35.13,Adulte
+542,57,Femme,Modere,290.11,95.08,30.91,Adulte
+543,60,Femme,Modere,360.82,94.94,56.33,Adulte
+544,69,Femme,Modere,308.36,94.74,75.58,Senior
+545,47,Homme,Modere,313.18,91.38,54.35,Adulte
+546,69,Femme,Modere,283.65,94.71,66.72,Senior
+547,69,Femme,Modere,344.06,94.64,61.34,Senior
+548,58,Homme,Modere,335.09,96.33,44.82,Adulte
+549,33,Femme,Modere,343.68,95.91,62.65,Jeune adulte
+550,48,Homme,Modere,275.14,103.65,45.21,Adulte
+551,32,Homme,Modere,365.2,101.18,45.41,Jeune adulte
+552,31,Homme,Modere,391.94,102.51,47.91,Jeune adulte
+553,60,Homme,Modere,342.1,122.83,48.39,Adulte
+554,42,Homme,Modere,259.54,101.15,56.61,Adulte
+555,27,Femme,Modere,259.89,133.16,43.29,Jeune adulte
+556,52,Homme,Modere,281.23,105.29,58.89,Adulte
+557,30,Homme,Modere,271.78,93.29,58.75,Jeune adulte
+558,68,Homme,Modere,296.45,120.24,53.43,Senior
+559,68,Homme,Modere,331.62,98.81,69.4,Senior
+560,45,Femme,Modere,314.5,64.09,62.87,Adulte
+561,52,Homme,Modere,310.11,99.94,60.7,Adulte
+562,64,Femme,Modere,287.94,96.26,50.66,Senior
+563,78,Homme,Modere,296.31,124.1,53.52,Senior
+564,78,Femme,Modere,339.83,86.54,55.24,Senior
+565,25,Homme,Modere,199.4,95.01,50.13,Jeune adulte
+566,60,Homme,Modere,299.43,119.01,46.24,Adulte
+567,45,Femme,Modere,314.4,105.92,25.94,Adulte
+568,67,Homme,Modere,339.18,97.43,57.18,Senior
+569,59,Femme,Modere,249.5,88.65,60.41,Adulte
+570,37,Homme,Modere,246.85,105.28,38.39,Adulte
+571,73,Femme,Modere,329.2,99.56,56.05,Senior
+572,78,Homme,Modere,204.78,88.48,44.08,Senior
+573,78,Homme,Modere,366.61,89.26,46.33,Senior
+574,34,Femme,Modere,311.33,87.78,63.11,Jeune adulte
+575,77,Homme,Modere,377.94,85.11,40.09,Senior
+576,68,Homme,Modere,245.65,114.01,40.08,Senior
+577,71,Homme,Modere,278.18,111.99,68.05,Senior
+578,77,Homme,Modere,179.61,114.04,48.54,Senior
+579,34,Homme,Modere,260.22,100.07,62.47,Jeune adulte
+580,70,Homme,Modere,290.81,96.36,34.01,Senior
+581,37,Femme,Modere,201.86,96.63,34.81,Adulte
+582,61,Femme,Modere,280.27,115.32,40.87,Senior
+583,62,Femme,Modere,200.63,72.7,45.19,Senior
+584,48,Homme,Modere,287.13,92.28,35.97,Adulte
+585,26,Femme,Modere,357.36,86.69,53.69,Jeune adulte
+586,46,Homme,Modere,298.25,120.4,54.35,Adulte
+587,41,Homme,Modere,382.91,92.84,41.02,Adulte
+588,60,Homme,Modere,339.31,75.46,41.81,Adulte
+589,38,Homme,Modere,367.41,103.35,43.13,Adulte
+590,34,Femme,Modere,261.75,94.45,38.35,Jeune adulte
+591,59,Homme,Modere,260.54,91.65,21.04,Adulte
+592,49,Femme,Modere,317.28,90.1,49.15,Adulte
+593,27,Homme,Modere,221.11,89.51,45.7,Jeune adulte
+594,71,Femme,Modere,323.56,110.63,46.72,Senior
+595,62,Femme,Modere,283.8,103.36,39.88,Senior
+596,41,Femme,Modere,366.5,97.03,58.1,Adulte
+597,36,Femme,Modere,333.98,83.53,74.25,Adulte
+598,78,Femme,Modere,354.84,97.47,41.66,Senior
+599,76,Femme,Modere,262.29,103.91,64.0,Senior
+600,48,Homme,Modere,352.41,104.48,53.67,Adulte
+601,53,Femme,Modere,372.24,102.41,50.35,Adulte
+602,67,Homme,Modere,298.06,86.16,46.56,Senior
+603,49,Femme,Modere,263.03,63.95,49.17,Adulte
+604,60,Homme,Modere,263.91,126.99,61.5,Adulte
+605,50,Femme,Modere,361.95,80.36,38.62,Adulte
+606,62,Femme,Modere,434.22,70.53,47.25,Senior
+607,25,Homme,Modere,250.92,101.96,62.49,Jeune adulte
+608,44,Femme,Modere,247.07,74.37,59.84,Adulte
+609,79,Femme,Modere,346.07,87.93,38.77,Senior
+610,52,Femme,Modere,262.3,108.23,48.17,Adulte
+611,40,Homme,Modere,350.92,126.59,57.28,Adulte
+612,71,Femme,Modere,323.27,105.81,56.63,Senior
+613,41,Homme,Modere,298.8,93.41,59.75,Adulte
+614,64,Femme,Modere,322.06,99.23,53.84,Senior
+615,52,Femme,Modere,319.01,72.87,55.52,Adulte
+616,36,Homme,Modere,291.02,93.24,53.43,Adulte
+617,51,Femme,Modere,212.18,93.25,65.8,Adulte
+618,78,Femme,Modere,308.93,102.3,45.78,Senior
+619,77,Homme,Modere,378.65,129.13,50.48,Senior
+620,66,Femme,Modere,219.56,70.95,39.85,Senior
+621,71,Homme,Modere,251.71,93.88,37.88,Senior
+622,54,Homme,Modere,321.34,72.5,53.25,Adulte
+623,65,Homme,Modere,301.93,92.45,42.76,Senior
+624,58,Femme,Modere,320.56,87.03,49.42,Adulte
+625,61,Homme,Modere,265.03,77.58,66.18,Senior
+626,30,Homme,Modere,358.12,113.7,65.6,Jeune adulte
+627,31,Femme,Modere,302.35,103.83,72.24,Jeune adulte
+628,56,Homme,Modere,334.85,111.94,66.38,Adulte
+629,56,Femme,Modere,316.01,92.03,74.03,Adulte
+630,77,Femme,Modere,308.77,98.94,54.37,Senior
+631,49,Femme,Modere,331.34,123.92,40.97,Adulte
+632,57,Femme,Modere,309.32,99.96,40.0,Adulte
+633,79,Homme,Modere,240.49,112.12,63.96,Senior
+634,31,Homme,Modere,354.37,90.74,50.52,Jeune adulte
+635,76,Homme,Modere,340.91,110.74,51.26,Senior
+636,36,Homme,Modere,194.66,91.77,44.51,Adulte
+637,40,Homme,Modere,267.29,71.55,45.71,Adulte
+638,40,Femme,Modere,352.12,99.89,53.84,Adulte
+639,67,Homme,Modere,208.65,92.95,39.45,Senior
+640,77,Homme,Modere,347.18,75.63,52.57,Senior
+641,60,Homme,Modere,292.94,102.87,65.11,Adulte
+642,37,Femme,Modere,367.01,86.6,28.66,Adulte
+643,31,Femme,Modere,299.94,146.39,34.59,Jeune adulte
+644,60,Homme,Modere,263.9,78.03,56.76,Adulte
+645,71,Femme,Modere,315.4,81.81,63.64,Senior
+646,75,Homme,Modere,298.48,113.04,45.1,Senior
+647,33,Homme,Modere,259.46,98.0,30.02,Jeune adulte
+648,56,Femme,Modere,410.92,112.74,64.32,Adulte
+649,35,Femme,Modere,251.45,105.71,41.89,Jeune adulte
+650,32,Homme,Modere,187.85,91.27,46.39,Jeune adulte
+651,57,Homme,Modere,379.08,79.31,53.19,Adulte
+652,47,Femme,Modere,270.82,116.07,43.34,Adulte
+653,49,Homme,Modere,285.16,80.67,41.24,Adulte
+654,32,Femme,Modere,282.1,108.38,41.42,Jeune adulte
+655,69,Homme,Modere,271.52,113.78,68.58,Senior
+656,46,Femme,Modere,261.69,98.1,61.6,Adulte
+657,28,Homme,Modere,250.16,95.44,55.75,Jeune adulte
+658,64,Homme,Modere,303.24,85.24,28.14,Senior
+659,27,Femme,Modere,279.9,106.94,55.78,Jeune adulte
+660,53,Homme,Modere,336.52,54.31,55.24,Adulte
+661,65,Homme,Modere,324.13,110.74,37.22,Senior
+662,53,Femme,Modere,253.62,101.79,52.59,Adulte
+663,58,Homme,Modere,305.43,96.66,60.51,Adulte
+664,58,Homme,Modere,279.11,103.63,55.69,Adulte
+665,52,Homme,Modere,250.42,79.4,43.2,Adulte
+666,37,Femme,Modere,334.47,63.81,50.13,Adulte
+667,39,Femme,Severe,343.93,92.03,77.3,Adulte
+668,47,Femme,Severe,329.62,104.75,70.59,Adulte
+669,68,Homme,Severe,307.22,58.91,82.54,Senior
+670,50,Homme,Severe,298.6,69.21,73.96,Adulte
+671,28,Homme,Severe,449.44,96.28,77.53,Jeune adulte
+672,50,Homme,Severe,366.71,90.38,78.21,Adulte
+673,64,Femme,Severe,295.44,129.45,59.33,Senior
+674,33,Homme,Severe,364.39,101.13,70.5,Jeune adulte
+675,79,Homme,Severe,403.1,97.53,66.68,Senior
+676,29,Homme,Severe,358.38,73.54,80.44,Jeune adulte
+677,56,Femme,Severe,418.7,92.87,74.63,Adulte
+678,44,Homme,Severe,272.86,107.43,68.12,Adulte
+679,74,Homme,Severe,250.43,82.53,57.18,Senior
+680,35,Homme,Severe,363.03,83.24,54.03,Jeune adulte
+681,39,Homme,Severe,363.82,87.12,73.1,Adulte
+682,56,Homme,Severe,183.02,75.03,62.83,Adulte
+683,52,Femme,Severe,318.82,89.03,76.66,Adulte
+684,46,Homme,Severe,299.57,88.66,53.57,Adulte
+685,65,Homme,Severe,280.4,107.2,85.93,Senior
+686,41,Homme,Severe,299.45,82.16,76.64,Adulte
+687,50,Homme,Severe,379.79,95.12,70.99,Adulte
+688,68,Homme,Severe,299.13,82.61,86.83,Senior
+689,31,Homme,Severe,300.84,94.6,79.48,Jeune adulte
+690,66,Homme,Severe,269.06,81.25,65.25,Senior
+691,50,Homme,Severe,413.45,93.6,70.78,Adulte
+692,49,Homme,Severe,371.73,95.92,50.36,Adulte
+693,34,Homme,Severe,225.38,69.0,80.64,Jeune adulte
+694,69,Femme,Severe,300.89,101.54,67.04,Senior
+695,43,Femme,Severe,376.43,82.5,50.23,Adulte
+696,35,Femme,Severe,414.07,77.95,58.18,Jeune adulte
+697,37,Femme,Severe,392.04,74.35,78.71,Adulte
+698,77,Homme,Severe,332.22,89.47,86.14,Senior
+699,32,Femme,Severe,253.43,84.93,70.2,Jeune adulte
+700,64,Femme,Severe,393.51,90.56,60.18,Senior
+701,28,Homme,Severe,335.16,90.85,55.79,Jeune adulte
+702,71,Femme,Severe,353.44,94.13,84.15,Senior
+703,55,Femme,Severe,341.13,126.64,74.49,Adulte
+704,52,Homme,Severe,282.22,85.6,66.7,Adulte
+705,35,Homme,Severe,368.21,73.98,64.32,Jeune adulte
+706,67,Homme,Severe,361.32,54.7,76.72,Senior
+707,25,Femme,Severe,328.71,67.07,76.44,Jeune adulte
+708,73,Femme,Severe,373.56,103.53,61.03,Senior
+709,71,Homme,Severe,281.3,95.8,58.58,Senior
+710,76,Homme,Severe,336.55,64.75,59.08,Senior
+711,62,Femme,Severe,351.31,121.96,65.32,Senior
+712,48,Homme,Severe,263.25,89.9,63.1,Adulte
+713,78,Femme,Severe,347.15,91.9,86.18,Senior
+714,71,Homme,Severe,386.68,118.66,64.96,Senior
+715,55,Homme,Severe,334.84,111.09,57.5,Adulte
+716,65,Femme,Severe,348.29,96.72,58.07,Senior
+717,70,Homme,Severe,378.12,97.44,68.16,Senior
+718,74,Homme,Severe,330.61,98.84,51.78,Senior
+719,50,Homme,Severe,335.11,81.39,69.4,Adulte
+720,73,Femme,Severe,291.16,89.3,56.64,Senior
+721,74,Homme,Severe,349.25,93.61,81.59,Senior
+722,29,Homme,Severe,333.26,83.1,71.17,Jeune adulte
+723,44,Homme,Severe,374.95,70.52,91.21,Adulte
+724,76,Homme,Severe,378.17,81.01,67.72,Senior
+725,65,Homme,Severe,389.56,70.18,38.68,Senior
+726,35,Homme,Severe,324.59,85.97,84.58,Jeune adulte
+727,78,Femme,Severe,241.17,58.29,75.02,Senior
+728,57,Femme,Severe,387.08,90.12,76.57,Adulte
+729,74,Homme,Severe,371.56,60.53,59.97,Senior
+730,62,Femme,Severe,318.24,78.95,69.57,Senior
+731,51,Femme,Severe,377.75,92.56,71.86,Adulte
+732,58,Homme,Severe,277.57,96.87,67.62,Adulte
+733,39,Femme,Severe,401.51,95.09,52.66,Adulte
+734,56,Femme,Severe,333.32,89.8,97.69,Adulte
+735,45,Femme,Severe,308.55,68.21,78.36,Adulte
+736,70,Femme,Severe,318.91,99.71,74.21,Senior
+737,29,Femme,Severe,338.43,68.55,83.14,Jeune adulte
+738,30,Femme,Severe,349.4,101.42,76.44,Jeune adulte
+739,62,Femme,Severe,352.41,94.42,63.23,Senior
+740,46,Femme,Severe,328.52,105.38,82.5,Adulte
+741,42,Homme,Severe,360.01,85.37,78.52,Adulte
+742,38,Homme,Severe,350.41,72.72,63.61,Adulte
+743,34,Femme,Severe,317.62,65.61,77.9,Jeune adulte
+744,70,Femme,Severe,310.09,67.28,67.59,Senior
+745,37,Homme,Severe,380.42,60.45,72.08,Adulte
+746,55,Femme,Severe,376.22,99.13,76.0,Adulte
+747,54,Femme,Severe,352.86,101.01,83.68,Adulte
+748,27,Homme,Severe,396.21,93.31,63.54,Jeune adulte
+749,54,Homme,Severe,251.93,84.5,73.65,Adulte
+750,30,Homme,Severe,321.78,115.91,90.16,Jeune adulte
+751,53,Femme,Severe,292.18,83.53,68.24,Adulte
+752,32,Femme,Severe,462.81,88.31,71.97,Jeune adulte
+753,68,Homme,Severe,385.66,84.28,90.14,Senior
+754,69,Homme,Severe,346.05,79.93,76.37,Senior
+755,67,Femme,Severe,389.25,94.46,55.26,Senior
+756,68,Homme,Severe,405.81,75.5,62.05,Senior
+757,57,Femme,Severe,405.28,74.49,76.9,Adulte
+758,41,Femme,Severe,396.09,95.22,74.23,Adulte
+759,72,Homme,Severe,336.87,77.54,71.63,Senior
+760,35,Homme,Severe,324.93,87.0,91.61,Jeune adulte
+761,37,Femme,Severe,301.89,79.88,63.83,Adulte
+762,74,Homme,Severe,375.12,84.83,69.26,Senior
+763,35,Homme,Severe,342.05,74.9,50.37,Jeune adulte
+764,55,Homme,Severe,329.08,75.39,81.61,Adulte
+765,52,Homme,Severe,326.47,72.7,62.01,Adulte
+766,68,Femme,Severe,422.51,97.65,80.57,Senior
+767,30,Femme,Severe,397.63,87.58,79.52,Jeune adulte
+768,65,Femme,Severe,441.52,98.78,93.49,Senior
+769,40,Femme,Severe,376.45,100.38,76.49,Adulte
+770,28,Homme,Severe,352.85,78.1,66.44,Jeune adulte
+771,59,Homme,Severe,348.73,98.22,74.54,Adulte
+772,72,Femme,Severe,298.98,84.79,62.41,Senior
+773,50,Femme,Severe,286.93,82.62,73.19,Adulte
+774,36,Homme,Severe,375.37,103.79,67.99,Adulte
+775,35,Femme,Severe,303.27,93.31,69.3,Jeune adulte
+776,61,Femme,Severe,360.57,79.71,61.02,Senior
+777,49,Homme,Severe,405.77,92.33,73.0,Adulte
+778,42,Femme,Severe,316.73,66.01,78.24,Adulte
+779,43,Homme,Severe,450.52,88.71,53.48,Adulte
+780,47,Homme,Severe,300.47,62.51,63.11,Adulte
+781,79,Femme,Severe,399.51,70.23,71.68,Senior
+782,62,Homme,Severe,371.24,93.77,46.53,Senior
+783,78,Femme,Severe,409.7,44.95,87.4,Senior
+784,42,Homme,Severe,294.19,112.04,62.89,Adulte
+785,50,Femme,Severe,465.35,97.52,60.62,Adulte
+786,30,Femme,Severe,341.06,57.42,67.93,Jeune adulte
+787,28,Femme,Severe,383.83,120.98,71.37,Jeune adulte
+788,68,Homme,Severe,422.22,125.11,62.44,Senior
+789,75,Homme,Severe,319.77,82.29,79.8,Senior
+790,53,Femme,Severe,391.29,71.1,74.0,Adulte
+791,58,Homme,Severe,311.43,110.29,61.63,Adulte
+792,41,Femme,Severe,419.85,79.84,64.78,Adulte
+793,67,Femme,Severe,311.99,87.42,54.83,Senior
+794,67,Homme,Severe,351.93,103.26,57.47,Senior
+795,77,Femme,Severe,365.31,82.7,73.88,Senior
+796,40,Homme,Severe,389.21,81.38,61.73,Adulte
+797,26,Femme,Severe,448.42,65.91,88.04,Jeune adulte
+798,58,Homme,Severe,327.4,75.54,70.71,Adulte
+799,79,Femme,Severe,406.94,81.09,56.47,Senior
+800,32,Femme,Severe,448.51,66.42,58.57,Jeune adulte
+801,37,Homme,Severe,358.29,67.78,80.53,Adulte
+802,66,Femme,Severe,322.49,85.5,69.23,Senior
+803,32,Femme,Severe,263.5,57.25,79.92,Jeune adulte
+804,54,Homme,Severe,444.16,71.81,66.34,Adulte
+805,56,Femme,Severe,337.78,114.17,64.4,Adulte
+806,60,Homme,Severe,299.93,79.82,81.19,Adulte
+807,71,Femme,Severe,282.08,77.94,61.41,Senior
+808,54,Homme,Severe,299.84,79.75,74.89,Adulte
+809,25,Femme,Severe,395.99,79.99,67.88,Jeune adulte
+810,67,Femme,Severe,402.89,93.62,78.79,Senior
+811,63,Femme,Severe,382.61,92.57,88.18,Senior
+812,41,Homme,Severe,356.62,79.14,66.08,Adulte
+813,44,Homme,Severe,287.72,81.79,64.53,Adulte
+814,48,Homme,Severe,313.5,104.69,76.66,Adulte
+815,74,Homme,Severe,294.67,62.35,59.18,Senior
+816,46,Femme,Severe,378.64,84.14,86.16,Adulte
+817,53,Femme,Severe,296.83,87.03,84.46,Adulte
+818,46,Homme,Severe,314.29,73.35,60.01,Adulte
+819,68,Homme,Severe,340.83,83.27,54.17,Senior
+820,33,Homme,Severe,266.51,71.32,58.39,Jeune adulte
+821,61,Femme,Severe,352.34,94.56,58.55,Senior
+822,34,Homme,Severe,344.64,64.93,78.02,Jeune adulte
+823,60,Homme,Severe,409.21,100.94,85.49,Adulte
+824,61,Femme,Severe,309.01,83.9,77.9,Senior
+825,52,Femme,Severe,285.04,78.28,67.64,Adulte
+826,52,Homme,Severe,331.3,69.93,73.42,Adulte
+827,66,Femme,Severe,295.1,100.46,61.3,Senior
+828,67,Homme,Severe,351.96,75.22,80.97,Senior
+829,45,Femme,Severe,257.0,67.49,74.32,Adulte
+830,48,Homme,Severe,319.73,100.77,77.73,Adulte
+831,66,Homme,Severe,303.58,71.44,62.72,Senior
+832,64,Homme,Severe,378.39,83.58,68.31,Senior
+833,26,Homme,Severe,309.47,97.28,77.25,Jeune adulte
+834,79,Femme,Severe,263.2,87.37,84.44,Senior
+835,32,Femme,Severe,339.91,110.96,63.92,Jeune adulte
+836,72,Femme,Severe,365.99,72.48,77.8,Senior
+837,51,Femme,Severe,336.44,81.84,62.88,Adulte
+838,46,Homme,Severe,319.43,83.0,91.17,Adulte
+839,61,Homme,Severe,316.42,94.32,65.85,Senior
+840,51,Femme,Severe,355.65,104.33,76.44,Adulte
+841,53,Femme,Severe,305.53,86.1,71.66,Adulte
+842,27,Femme,Severe,333.58,82.94,96.05,Jeune adulte
+843,68,Femme,Severe,387.52,62.76,72.3,Senior
+844,37,Femme,Severe,284.93,86.69,64.85,Adulte
+845,69,Homme,Severe,347.82,75.25,76.4,Senior
+846,34,Homme,Severe,260.55,94.28,76.17,Jeune adulte
+847,60,Homme,Severe,361.4,78.85,68.43,Adulte
+848,33,Femme,Severe,301.06,81.39,59.05,Jeune adulte
+849,78,Femme,Severe,400.98,63.1,64.72,Senior
+850,79,Femme,Severe,276.15,57.83,78.81,Senior
+851,51,Femme,Severe,372.1,112.91,52.53,Adulte
+852,58,Homme,Severe,411.06,86.95,67.52,Adulte
+853,75,Homme,Severe,298.47,91.07,79.95,Senior
+854,25,Femme,Severe,306.91,71.32,69.07,Jeune adulte
+855,56,Homme,Severe,302.79,98.13,91.74,Adulte
+856,49,Homme,Severe,325.71,95.43,52.55,Adulte
+857,53,Femme,Severe,375.87,72.96,60.39,Adulte
+858,31,Femme,Severe,321.62,69.11,46.85,Jeune adulte
+859,73,Femme,Severe,293.95,74.01,89.94,Senior
+860,27,Femme,Severe,249.06,84.58,60.55,Jeune adulte
+861,44,Femme,Severe,430.1,87.51,50.13,Adulte
+862,44,Femme,Severe,434.02,85.58,63.88,Adulte
+863,77,Homme,Severe,378.01,104.48,56.07,Senior
+864,54,Homme,Severe,309.48,74.28,63.95,Adulte
+865,59,Femme,Severe,387.39,68.7,70.41,Adulte
+866,59,Homme,Severe,397.44,85.0,78.05,Adulte
+867,73,Femme,Severe,337.29,59.6,68.25,Senior
+868,63,Femme,Severe,352.07,95.44,70.25,Senior
+869,51,Femme,Severe,411.59,86.47,64.18,Adulte
+870,50,Femme,Severe,267.98,79.93,54.88,Adulte
+871,38,Homme,Severe,399.92,79.1,51.53,Adulte
+872,41,Femme,Severe,334.54,98.65,66.36,Adulte
+873,42,Homme,Severe,294.37,98.17,70.85,Adulte
+874,69,Femme,Severe,298.48,81.3,65.61,Senior
+875,76,Femme,Severe,306.76,93.88,51.91,Senior
+876,53,Femme,Severe,289.5,97.95,72.01,Adulte
+877,44,Homme,Severe,438.57,90.03,86.29,Adulte
+878,77,Femme,Severe,374.56,81.92,68.85,Senior
+879,51,Femme,Severe,403.22,90.72,64.2,Adulte
+880,42,Femme,Severe,378.12,69.41,69.4,Adulte
+881,28,Homme,Severe,353.06,86.07,58.96,Jeune adulte
+882,25,Homme,Severe,353.74,81.5,58.31,Jeune adulte
+883,74,Homme,Severe,330.12,79.15,74.51,Senior
+884,25,Femme,Severe,334.21,59.1,79.9,Jeune adulte
+885,50,Homme,Severe,279.59,69.59,68.53,Adulte
+886,69,Femme,Severe,404.09,77.71,50.26,Senior
+887,44,Homme,Severe,259.34,98.43,73.53,Adulte
+888,76,Homme,Severe,297.07,89.29,90.67,Senior
+889,47,Femme,Severe,450.6,99.1,67.56,Adulte
+890,34,Homme,Severe,356.81,103.64,68.22,Jeune adulte
+891,35,Femme,Severe,358.89,89.94,61.27,Jeune adulte
+892,65,Femme,Severe,381.87,87.1,74.81,Senior
+893,65,Homme,Severe,272.98,70.41,63.29,Senior
+894,29,Femme,Severe,280.31,114.8,80.22,Jeune adulte
+895,25,Femme,Severe,327.76,63.73,63.42,Jeune adulte
+896,41,Homme,Severe,304.83,86.78,73.42,Adulte
+897,46,Homme,Severe,346.25,97.49,69.54,Adulte
+898,58,Femme,Severe,374.28,97.7,85.55,Adulte
+899,69,Homme,Severe,419.46,67.67,74.09,Senior
+900,65,Femme,Severe,390.55,78.7,83.87,Senior
+901,53,Femme,Severe,300.29,73.02,71.09,Adulte
+902,28,Homme,Severe,331.25,55.29,68.29,Jeune adulte
+903,29,Homme,Severe,317.65,86.95,69.62,Jeune adulte
+904,35,Homme,Severe,299.17,74.24,62.29,Jeune adulte
+905,75,Homme,Severe,287.79,107.58,75.32,Senior
+906,45,Femme,Severe,433.22,94.23,63.1,Adulte
+907,59,Femme,Severe,350.53,85.62,71.12,Adulte
+908,36,Homme,Severe,338.79,77.91,78.55,Adulte
+909,50,Homme,Severe,374.21,86.73,85.84,Adulte
+910,75,Femme,Severe,376.69,81.16,71.63,Senior
+911,43,Femme,Severe,405.94,86.04,78.61,Adulte
+912,69,Femme,Severe,312.82,113.52,77.42,Senior
+913,31,Femme,Severe,370.14,69.03,66.18,Jeune adulte
+914,71,Homme,Severe,304.44,82.47,91.08,Senior
+915,79,Femme,Severe,340.49,95.6,64.24,Senior
+916,31,Femme,Severe,352.84,79.0,70.91,Jeune adulte
+917,50,Homme,Severe,357.72,108.71,84.54,Adulte
+918,64,Femme,Severe,355.52,95.18,84.29,Senior
+919,29,Femme,Severe,390.09,74.22,70.14,Jeune adulte
+920,45,Homme,Severe,320.15,88.06,79.9,Adulte
+921,38,Homme,Severe,359.08,74.43,67.76,Adulte
+922,28,Homme,Severe,312.05,73.05,65.11,Jeune adulte
+923,47,Femme,Severe,496.04,82.9,57.87,Adulte
+924,66,Femme,Severe,304.36,103.96,77.24,Senior
+925,44,Homme,Severe,314.97,96.18,78.29,Adulte
+926,39,Homme,Severe,394.13,84.66,64.32,Adulte
+927,74,Femme,Severe,328.53,96.72,72.68,Senior
+928,76,Homme,Severe,394.15,89.03,96.51,Senior
+929,69,Homme,Severe,357.65,67.45,81.47,Senior
+930,53,Homme,Severe,329.84,82.82,60.99,Adulte
+931,32,Femme,Severe,312.36,83.9,80.02,Jeune adulte
+932,65,Femme,Severe,310.56,96.43,61.03,Senior
+933,72,Femme,Severe,330.38,76.5,41.05,Senior
+934,43,Femme,Severe,341.28,71.31,69.8,Adulte
+935,72,Femme,Severe,308.41,84.32,85.63,Senior
+936,63,Femme,Severe,344.54,75.32,83.97,Senior
+937,70,Homme,Severe,295.29,80.15,73.77,Senior
+938,52,Femme,Severe,387.8,83.79,64.58,Adulte
+939,70,Femme,Severe,397.37,79.25,74.86,Senior
+940,51,Homme,Severe,314.78,99.45,67.31,Adulte
+941,28,Femme,Severe,311.99,106.21,64.86,Jeune adulte
+942,39,Femme,Severe,358.9,97.94,80.62,Adulte
+943,59,Homme,Severe,413.27,58.43,64.74,Adulte
+944,61,Homme,Severe,424.33,75.37,81.27,Senior
+945,25,Homme,Severe,279.86,82.32,64.08,Jeune adulte
+946,27,Femme,Severe,400.32,57.31,90.58,Jeune adulte
+947,71,Homme,Severe,346.92,71.86,53.59,Senior
+948,48,Femme,Severe,347.89,82.13,60.43,Adulte
+949,51,Femme,Severe,375.24,78.27,68.45,Adulte
+950,64,Femme,Severe,325.95,85.13,50.16,Senior
+951,60,Femme,Severe,404.84,64.29,44.29,Adulte
+952,58,Homme,Severe,421.2,78.1,50.25,Adulte
+953,53,Homme,Severe,423.06,87.28,67.08,Adulte
+954,48,Femme,Severe,257.8,85.15,67.33,Adulte
+955,48,Homme,Severe,338.52,91.7,73.33,Adulte
+956,66,Femme,Severe,253.24,90.83,68.03,Senior
+957,28,Femme,Severe,311.74,78.89,73.0,Jeune adulte
+958,27,Femme,Severe,230.13,86.8,65.5,Jeune adulte
+959,58,Homme,Severe,372.51,73.0,77.15,Adulte
+960,73,Femme,Severe,360.97,80.95,75.94,Senior
+961,47,Femme,Severe,328.37,69.17,66.73,Adulte
+962,77,Homme,Severe,310.44,100.98,75.33,Senior
+963,76,Homme,Severe,365.7,80.9,68.09,Senior
+964,47,Homme,Severe,299.43,100.96,54.78,Adulte
+965,69,Homme,Severe,296.03,89.67,79.04,Senior
+966,29,Femme,Severe,289.88,71.72,60.93,Jeune adulte
+967,55,Homme,Severe,339.81,88.77,78.94,Adulte
+968,77,Femme,Severe,320.88,97.15,73.24,Senior
+969,65,Homme,Severe,330.79,83.84,69.15,Senior
+970,78,Homme,Severe,376.09,86.11,51.23,Senior
+971,30,Homme,Severe,398.16,76.73,85.4,Jeune adulte
+972,61,Homme,Severe,422.52,85.36,66.37,Senior
+973,34,Homme,Severe,353.01,88.57,76.35,Jeune adulte
+974,64,Homme,Severe,367.38,76.32,68.86,Senior
+975,31,Femme,Severe,359.44,68.81,67.29,Jeune adulte
+976,63,Homme,Severe,266.29,104.32,71.93,Senior
+977,62,Homme,Severe,331.52,94.06,70.27,Senior
+978,45,Homme,Severe,331.75,76.79,67.33,Adulte
+979,44,Homme,Severe,324.46,88.29,69.45,Adulte
+980,27,Femme,Severe,347.95,62.82,74.27,Jeune adulte
+981,75,Homme,Severe,339.03,55.34,74.98,Senior
+982,46,Homme,Severe,300.68,101.26,70.43,Adulte
+983,71,Homme,Severe,342.45,88.44,76.21,Senior
+984,28,Homme,Severe,318.05,84.28,65.76,Jeune adulte
+985,52,Femme,Severe,219.04,88.49,92.25,Adulte
+986,36,Homme,Severe,280.15,133.39,84.86,Adulte
+987,62,Femme,Severe,354.45,98.04,77.62,Senior
+988,75,Homme,Severe,404.59,69.32,50.58,Senior
+989,60,Femme,Severe,228.64,59.79,76.06,Adulte
+990,71,Femme,Severe,306.48,100.82,66.63,Senior
+991,65,Homme,Severe,371.57,97.84,60.21,Senior
+992,29,Homme,Severe,393.91,93.63,66.38,Jeune adulte
+993,37,Femme,Severe,328.99,72.81,61.32,Adulte
+994,47,Femme,Severe,315.86,90.45,75.07,Adulte
+995,74,Homme,Severe,410.99,74.15,86.16,Senior
+996,54,Femme,Severe,389.8,94.94,78.26,Adulte
+997,61,Femme,Severe,392.93,99.74,97.63,Senior
+998,49,Femme,Severe,326.6,76.85,54.46,Adulte
+999,72,Homme,Severe,405.68,101.98,64.94,Senior
+1000,51,Femme,Severe,252.75,86.72,60.57,Adulte

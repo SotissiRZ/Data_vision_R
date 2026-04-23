@@ -1,0 +1,9 @@
+
+#accueil {
+  background-image: url('bgn.jpg');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;  
+  color:;
+  padding: 10px; 
+}
